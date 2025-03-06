@@ -1,0 +1,6 @@
+@Snapbean.NET9.OpenApi.WebApi_HostAddress = http://localhost:5177
+
+GET {{Snapbean.NET9.OpenApi.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
